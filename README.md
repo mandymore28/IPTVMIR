@@ -1,51 +1,49 @@
-# 📺 DropTV — Открытый IPTV проект
+# 📺 droptv — un proyecto de IPTV abierto
 
 <div align="center">
 
-[![Channels](https://img.shields.io/badge/Каналов-9000%2B-brightgreen?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Обновлено-27--02--2026-blue?style=for-the-badge)](#)
-[![Free](https://img.shields.io/badge/Бесплатно-навсегда-orange?style=for-the-badge)](#)
-[![Safe](https://img.shields.io/badge/Безопасно-✓-success?style=for-the-badge)](#)
+[![canales](https://img.shields.io/badge/Canales-9000%2B-brightgreen?style=for-the-badge)](#)
+[![Actualizado](https://img.shields.io/badge/Actualizado-27--02--2026-blue?style=for-the-badge)](#)
+[![Gratis](https://img.shields.io/badge/Gratis-para_siempre-orange?style=for-the-badge)](#)
+[![Seguro](https://img.shields.io/badge/Seguro-✓-success?style=for-the-badge)](#)
 
-**Брутальный, солидарный, не жалеющий времени на проверку IPTV проект.**
-9 000+ каналов. Каждый проверен личным IPTV чекером.
+**Un proyecto de IPTV ambicioso e impulsado por la comunidad que no escatima esfuerzos en la verificación de las transmisiones.**
+Más de 9.000 canales. Cada uno verificado mediante una herramienta de comprobación de IPTV personalizada.
 
-[🌐 Сайт](https://IPTVRU2026.github.io/IPTVMIR/site/) · [📥 Скачать плейлист](https://raw.githubusercontent.com/IPTVRU2026/IPTVMIR/main/IPTV_MEGA_PLAYLIST.m3u) · [🔍 Checker](https://IPTVRU2026.github.io/IPTVMIR/site/checker.html)
+[🌐 Sitio web](https://IPTVRU2026.github.io/IPTVMIR/site/) · [📥 Descargar lista de reproducción](https://raw.githubusercontent.com/IPTVRU2026/IPTVMIR/main/IPTV_MEGA_PLAYLIST.m3u) · [🔍 Verificador](https://IPTVRU2026.github.io/IPTVMIR/site/checker.html)
 
 </div>
 
 ---
 
-## 🔗 RAW ссылка на плейлист
+## 🔗 Enlace directo (RAW) a la lista de reproducción
 
 ```
 https://raw.githubusercontent.com/IPTVRU2026/IPTVMIR/main/IPTV_MEGA_PLAYLIST.m3u
 ```
 
-> Скопируйте и вставьте в любой IPTV плеер
+> Copia y pega el enlace en cualquier reproductor de IPTV
 
 ---
 
-## 🌐 Сайт и Checker
+## 🌐 Sitio web y verificador
 
-| | Ссылка |
+| | Enlace |
 |---|---|
-| 🌐 Сайт | https://IPTVRU2026.github.io/IPTVMIR/site/ |
-| 🔍 Checker | https://IPTVRU2026.github.io/IPTVMIR/site/checker.html |
+| 🌐 Sitio web | https://IPTVRU2026.github.io/IPTVMIR/site/ |
+| 🔍 Verificador | https://IPTVRU2026.github.io/IPTVMIR/site/checker.html | ---
+
+## 🛡️ Principios
+
+- ✅ Todos los canales provienen de **fuentes abiertas**
+- 🔍 Cada canal se verifica mediante un **verificador de IPTV personalizado**
+- 🔄 Actualización **semanal**
+- 🆓 **Gratis para siempre**
+
+> Si la lista de reproducción no funciona temporalmente, por favor espera a la próxima actualización.
+
+Última actualización: **27.02.2026**
 
 ---
 
-## 🛡️ Принципы
-
-- ✅ Все каналы из **открытых источников**
-- 🔍 Каждый канал проверен **личным IPTV чекером**
-- 🔄 Обновление **каждую неделю**
-- 🆓 **Бесплатно навсегда**
-
-> Если плейлист временно не работает — подождите следующего обновления.
-
-Последнее обновление: **27.02.2026**
-
----
-
-<div align="center">**DropTV** — потому что мы не жалеем времени ради вас 🔥</div>
+<div align="center">**DropTV** — porque no escatimamos esfuerzos por ti 🔥</div>
